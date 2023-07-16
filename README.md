@@ -1,1 +1,1 @@
-# CHE221_course_project
+# T vs X, Y Computational Project CHE221A
