@@ -1,2 +1,1 @@
-# CHE221A-Computational-project
-Computational Assignment for the course CHE221A
+# CHE221_course_project
